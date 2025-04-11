@@ -4,6 +4,7 @@
 - 🔭 Currently working on: *A Full Stack React Application for a tag-based calendar*  
 - 🌱 Learning: *Web developement*
 - 📫 How to reach me: *[arne.roenneberg@gmail.com](mailto:arne.roenneberg@gmail.com)*
+- 💻 Connect: *[https://www.linkedin.com/in/arne-roenneberg/](https://www.linkedin.com/in/arne-roenneberg/)*
 
 ### 📌 TL;DR
 - 🧑‍💻 Dev by day, debugger by night  
