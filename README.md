@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Arne – an undergraduate Computer Science student 👋
 
+### 🚀 Quick Facts About Me  
+- 🔭 Currently working on: *A Full Stack React Application for a tag-based calendar*  
+- 🌱 Learning: *Web developement*
+- 📫 How to reach me: *[arne.roenneberg@gmail.com](mailto:arne.roenneberg@gmail.com)*
+
+### 📌 TL;DR
+- 🧑‍💻 Dev by day, debugger by night  
+- 🐛 Professional bug creator & solver  
+- 🤖 My code either *works* or *works mysteriously*  
 <!--
 **arne-ron/arne-ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
